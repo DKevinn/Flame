@@ -11,7 +11,7 @@
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✅ |  |  |  |  | Makes chests render faster |
 | [FastQuit](https://www.curseforge.com/minecraft/mc-mods/fastquit) | [KingContaria](https://www.curseforge.com/members/kingcontaria) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Quit from singleplayer worlds instantly |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Reduces RAM usage |
-| [Hydrogen](https://modrinth.com/mod/hydrogen) ¹ | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Reduces RAM usage |
+| [Hydrogen](https://modrinth.com/mod/hydrogen)  | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Reduces RAM usage |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | [RaphiMC](https://www.curseforge.com/members/raphimc) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Optimizes mobs, container blocks, GUI, HUD |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes language switching instant, adds a searchbar |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Makes the game startup faster |
@@ -60,8 +60,6 @@
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Ensures all possible tooltips fit to screen |
-
-¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk because Farsight could not be distributed there.
 
 ## Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
