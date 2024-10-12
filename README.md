@@ -6,8 +6,6 @@
 
 A simple Minecraft Modpack focusing on Performance and more....
 
-</div>
-
 # Downloads
 [![Modrinth][img-modrinth]][url-modrinth]
 
