@@ -17,8 +17,8 @@ Flame supports most OptiFine features, including shaders, connected textures, an
 ## FAQ
 <div align="left">
 
-> **Q**: Something broke!  
-> **A**: [Post it to our GitHub.](https://github.com/VVerson/Flame/issues)
+> **Q**: Something is broken!  
+> **A**: [Post to Issues](https://github.com/VVerson/Flame/issues)
 
 > **Q**: Is this a client modpack?  
 > **A**: Yes
