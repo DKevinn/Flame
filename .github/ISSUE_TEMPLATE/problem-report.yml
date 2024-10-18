@@ -19,6 +19,7 @@ body:
     label: Modpack version
     description: What version of the modpack are you using?
     placeholder: Version link
+    exemple: https://modrinth.com/modpack/flame/version/1.0.0
   validations:
     required: true
 
