@@ -18,7 +18,7 @@ body:
   attributes:
     label: Modpack version
     description: What version of the modpack are you using?
-    placeholder: Link from the Modpacks Version you downloaded
+    placeholder: Version link
   validations:
     required: true
 
