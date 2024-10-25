@@ -18,7 +18,7 @@ body:
   attributes:
     label: Modpack version
     description: What version of the modpack are you using?
-    placeholder: Version link
+    placeholder: 1.19.2 [1.0.0]
   validations:
     required: true
 
