@@ -2,23 +2,17 @@
 
 A simple Minecraft modpack focusing on performance.
 
-## ![Performance](https://cdn.modrinth.com/data/cached_images/0b156b76886ffa94f6a2813bc1bb67515b8f1f2a.jpeg)
+![PERFORMANCE](https://cdn.modrinth.com/data/cached_images/e3cb5f9c7723e96580f35e3abcff261f44f74ed5.png)
+Flame is faster than vanilla Minecraft, thanks to modern performance mods like [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), and others.
+
+![OPTIFINE PARITY](https://cdn.modrinth.com/data/cached_images/105aa0a49e7d4417a2cc00c1db2b74a06a89f019.png)
+Flame supports most OptiFine features, including shaders, connected textures, and zoom.
+
+![FAQ](https://cdn.modrinth.com/data/cached_images/58024b5deaf36a146853d1d58a762b0217fd9a2f.png)
 <div align="left">
 
-Flame is faster than vanilla Minecraft, thanks to modern performance mods like [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), and more. The bundled mods have been carefully selected to be safe in your worlds and provide noticeable speed benefits on any device.
-<div align="center">
+**Q**: Something broke!  
+**A**: [Post it to Issues.](https://github.com/VVerson/Flame/issues)
 
-## ![OptiFine Parity](https://cdn.modrinth.com/data/cached_images/db7b764b1e6e3b3a8ada8b0746478de37c41f1d1.jpeg)
-<div align="left">
-
-Flame supports most OptiFine features, including shaders, connected textures, and zoom. If your resource pack states "OptiFine is required," it will probably function here as well.
-<div align="center">
-
-## ![FAQ](https://cdn.modrinth.com/data/cached_images/76418e63a031e170e93c5fe815d7e52ac2851a76.jpeg)
-<div align="left">
-
-> **Q**: Something is broken!  
-> **A**: [Post to GitHub](https://github.com/VVerson/Flame/issues)
-
-> **Q**: Is this a client modpack?  
-> **A**: Yes
+**Q**: What mods does it have?  
+**A**: Click on any version and scroll down.
