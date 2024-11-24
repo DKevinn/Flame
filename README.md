@@ -1,5 +1,6 @@
 <div align="center">
 
+[![FLAME MODPACK BY CALVINSON](https://cdn.modrinth.com/data/cached_images/b80d82b9deacf4b7838589eb25ebdfe871b95173.png)](https://modrinth.com/modpack/flame)
 A simple Minecraft modpack focusing on performance.
 
 ![PERFORMANCE](https://cdn.modrinth.com/data/cached_images/e3cb5f9c7723e96580f35e3abcff261f44f74ed5.png)
@@ -12,7 +13,8 @@ Flame supports most OptiFine features, including shaders, connected textures, an
 <div align="left">
 
 **Q**: Something broke!  
-**A**: [Post it to Issues.](https://github.com/VVerson/Flame/issues)
+**A**: [Post it to Issues.](https://github.com/CalvinDeVinson/Flame/issues)
 
 **Q**: What mods does it have?  
-**A**: Click on any version and scroll down.
+**A**: Click on any version and scroll down.  
+### Thanks for Downloading!
