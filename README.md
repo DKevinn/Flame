@@ -1,20 +1,16 @@
-<div align="center">
+Flame is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and much more.
 
-[![FLAME MODPACK BY CALVINSON](https://cdn.modrinth.com/data/cached_images/b80d82b9deacf4b7838589eb25ebdfe871b95173.png)](https://modrinth.com/modpack/flame)
-A simple Minecraft modpack focusing on performance.
+# 📥 Installation Guide
+**Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility) section on the wiki before installing Flame. It contains some important instructions on preventing crashes and other performance issues.**
 
-![PERFORMANCE](https://cdn.modrinth.com/data/cached_images/e3cb5f9c7723e96580f35e3abcff261f44f74ed5.png)
-Flame is faster than vanilla Minecraft, thanks to modern performance mods like [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), and others.
+# ✅ Hardware Compatibility
+Flame supports the use of graphics cards with drivers that are compatible with OpenGL 4.6. Most graphics cards released in 2010 or later are compatible. This includes the following hardware:
+- Intel HD Graphics 500 Series (Skylake) or newer
+- Nvidia GeForce 400 Series (Fermi) or newer
+- AMD Radeon HD 7000 Series (GCN 1) or newer
 
-![OPTIFINE PARITY](https://cdn.modrinth.com/data/cached_images/105aa0a49e7d4417a2cc00c1db2b74a06a89f019.png)
-Flame supports most OptiFine features, including shaders, connected textures, and zoom.
+# 🐛 How to Report Issues
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/CalvinDeVinson/Flame/issues). Be sure to include necessary information like your hardware/software (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
-![FAQ](https://cdn.modrinth.com/data/cached_images/58024b5deaf36a146853d1d58a762b0217fd9a2f.png)
-<div align="left">
-
-**Q**: Something broke!  
-**A**: [Post it to Issues.](https://github.com/CalvinDeVinson/Flame/issues)
-
-**Q**: What mods does it have?  
-**A**: Click on any version and scroll down.  
-### Thanks for Downloading!
+# ❓ Frequently Asked Questions
+For a few frequently asked questions, along with tons of other information, consider visiting the up coming wiki. It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
