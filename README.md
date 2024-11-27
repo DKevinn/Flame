@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/CalvinDeVinson/Flame">
-    <img src="https://github.com/user-attachments/assets/349711c8-937b-46ac-be3d-03a88c98e381" alt="Logo" width="96px" height="96px">
+    <img src="https://github.com/user-attachments/assets/dd7ac2a8-d7b0-4de4-a336-49ce61fed97d" alt="Logo" width="192px" height="96px">
   </a>
   <br />
   <br />
