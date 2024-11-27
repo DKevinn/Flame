@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report to help us improve the modpack
 title: Short description of issue here
-labels: bug
+labels: Bug
 assignees: ''
 
 ---
