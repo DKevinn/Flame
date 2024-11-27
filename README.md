@@ -13,4 +13,4 @@ Flame supports the use of graphics cards with drivers that are compatible with O
 Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/CalvinDeVinson/Flame/issues). Be sure to include necessary information like your hardware/software (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
 # ❓ Frequently Asked Questions
-For a few frequently asked questions, along with tons of other information, consider visiting the up coming wiki. It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
+For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/CalvinDeVinson/Flame/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
