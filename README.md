@@ -1,5 +1,13 @@
-Flame is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and much more.
+<div align="center">
 
+Simple and fast open-source OptiFine alternative for modern loaders  
+[Explore the wiki](https://github.com/CalvinDeVinson/Flame/wiki) · [Report Bugs](https://github.com/CalvinDeVinson/Flame/issues)  
+
+[![image](https://github.com/user-attachments/assets/0f415f51-451f-4766-bbab-ea6b6f3b14e7)](https://modrinth.com/modpack/flame)
+<div align="left">
+
+Flame is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and much more.
+  
 # 📥 Installation Guide
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility) section on the wiki before installing Flame. It contains some important instructions on preventing crashes and other performance issues.**
 
