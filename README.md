@@ -1,4 +1,9 @@
 <div align="center">
+    <a href="https://github.com/intergrav/Additive">
+    <img src="https://cdn.modrinth.com/data/8oJtqjYR/c4c3620a696d74eb988bb1d934d27f718761e87c_96.webp" alt="Logo">
+  </a>
+  <br />
+  <br />
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders
     <br />
