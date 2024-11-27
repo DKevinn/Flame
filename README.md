@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://github.com/intergrav/Additive">
-    <img src="https://cdn.modrinth.com/data/8oJtqjYR/c4c3620a696d74eb988bb1d934d27f718761e87c_96.webp" alt="Logo">
+    <a href="https://github.com/CalvinDeVinson/Flame">
+    <img src="https://github.com/user-attachments/assets/349711c8-937b-46ac-be3d-03a88c98e381" alt="Logo" width="96px" height="96px">
   </a>
   <br />
   <br />
