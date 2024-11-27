@@ -1,9 +1,6 @@
 <div align="center">
     <a href="https://github.com/CalvinDeVinson/Flame">
     <img src="https://github.com/user-attachments/assets/dd7ac2a8-d7b0-4de4-a336-49ce61fed97d" alt="Logo" width="192px" height="96px">
-  </a>
-  <br />
-  <br />
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders
     <br />
