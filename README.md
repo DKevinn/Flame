@@ -3,9 +3,11 @@
 </div>
 
 Flame is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and much more.
-  
+
 # 📥 Installation Guide
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility) section on the wiki before installing Flame. It contains some important instructions on preventing crashes and other performance issues.**
+
+After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on.
 
 # ✅ Hardware Compatibility
 Flame supports the use of graphics cards with drivers that are compatible with OpenGL 4.6. Most graphics cards released in 2010 or later are compatible. This includes the following hardware:
