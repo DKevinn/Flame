@@ -11,7 +11,7 @@ Flame supports the use of graphics cards with OpenGL 4.6 compatible drivers. Mos
 - Nvidia GeForce 400 Series (Fermi) or later
 - AMD Radeon HD 7000 Series (GCN 1) or later
 
-# 🐛 How to Report a Problem
+# 🐛 How to Report Issues
 Experiencing bugs, crashes, or other issues? Feel free to open an issue in the [issue tracker](https://github.com/CalvinDeVinson/Flame/issues). Be sure to include the necessary information such as your hardware/software (e.g. GPU and CPU, modpack version, and OS) so that it will be easier for me to find the problem and resolve it.
 
 # ❓ Frequently Asked Questions
