@@ -1,3 +1,19 @@
+<div align="center">
+  <a href="https://github.com/CalvinDeVinson/Flame">
+    <img src="https://cdn.modrinth.com/data/8oJtqjYR/ce7fe551389747176fc9dfdcec14e7c00f000ba6_96.webp" alt="Logo" height="75">
+  </a>
+  <br />
+  <br />
+  <p align="center">
+    A simple and fast OptiFine alternative to modern loaders
+    <br />
+    <a href="https://github.com/CalvinDeVinson/Flame/wiki">Explore wikis</a>
+    ·
+    <a href="https://github.com/CalvinDeVinson/Flame/issues">Report a Bug</a>
+  </p>
+  <a href="https://modrinth.com/modpack/flame"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available in Modrinth"></a>
+</div>
+
 Flame is a modpack designed as an **OptiFine alternative**. It includes most of OptiFine's features, such as built-in shader support, major improvements in rendering and logic performance, additional features for resource packs to use, zoom features, OptiFine and custom capes support, and [more](https://github.com/CalvinDeVinson/Flame/wiki/Give-up-OptiFine).
 
 # 📥 Installation Guide
