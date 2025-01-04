@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/CalvinDeVinson/Flame">
-    <img src="https://cdn.modrinth.com/data/8oJtqjYR/ce7fe551389747176fc9dfdcec14e7c00f000ba6_96.webp" alt="Logo" height="75">
+    <img src="https://cdn.modrinth.com/data/8oJtqjYR/5d25ae791ae9baf8323875aa72299048e2f5be4e_96.webp" alt="Logo">
   </a>
   <br />
   <br />
