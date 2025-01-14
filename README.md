@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/CalvinOfficial/Flame">
-    <img src="https://cdn.modrinth.com/data/cached_images/2b786b840cec244b11598f0a55426f9157ced1fc.png" alt="Flame Textlogo" height="75">
+    <img src="https://cdn.modrinth.com/data/cached_images/a11a9b5574990724e9d5d0ff75e3317848365740.png" alt="Flame Textlogo" height="75">
   </a>
   <br />
   <br />
