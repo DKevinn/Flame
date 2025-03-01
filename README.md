@@ -24,7 +24,5 @@ Flame supports the use of graphics cards with OpenGL 4.6 compatible drivers. Mos
 - Intel HD Graphics 500 Series (Skylake) or later
 - Nvidia GeForce 400 Series (Fermi) or later
 - AMD Radeon HD 7000 Series (GCN 1) or later
-# ![How to Report Issues](https://cdn.modrinth.com/data/cached_images/8ccb01fe5ec6270f5725a0edf3f3a8430b65228f.png)
-Experiencing bugs, crashes, or other issues? Feel free to open an issue in the [issue tracker](https://github.com/DKevinn/Flame/issues). Be sure to include the necessary information such as your hardware/software (e.g. GPU and CPU, modpack version, and OS) so that it will be easier for me to find the problem and resolve it.
 # ![Frequently Asked Questions](https://cdn.modrinth.com/data/cached_images/b6891d898c7001bf4a35c54fa91997aa3da4f5e7.png)
 For some frequently asked questions, along with a lot of other information, consider visiting the [wiki](https://github.com/DKevinn/Flame/wiki). It has several other helpful resources that I recommend you read, such as mods info, and more. This wiki is frequently updated with new information.
