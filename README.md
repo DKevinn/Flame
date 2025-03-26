@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DKevinn/Flame">
-    <img src="https://cdn.modrinth.com/data/cached_images/83ecc6aae168424f9572b015b04674380601209b.png" height="190">
+    <img src="https://cdn.modrinth.com/data/cached_images/83ecc6aae168424f9572b015b04674380601209b.png" height="90">
   </a>
   <br />
   <br />
